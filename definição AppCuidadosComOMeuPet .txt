@@ -1,0 +1,8 @@
+App Cuidados com Meu Pet
+
+Objetivo --> Desenvolver habilidades e conhecimento ao cuidar de um pet
+Guia --> Botões de direcionamento para CUIDADOS/VETERINÁIROS
+Feedback --> Alerta de FeedBack ao ser direcionado ás guias especificas
+Regras --> Acesso á internet + login para acessar a tela VETERINÁRIOS (Text Box -> para informar o usuário sobre o login)
+Desafios/obstáculos --> Ligações do App direto para a clínica 
+
